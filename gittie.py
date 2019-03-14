@@ -7,7 +7,7 @@ def add():
 
 
 hello()
-hello()
+add()
 
 
 def joke():
@@ -23,3 +23,7 @@ def introduct():
 
 
 joke()
+
+def introduct():
+    print("wololololo")
+introduct()
