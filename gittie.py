@@ -20,10 +20,7 @@ def joke():
 def introduct():
     print('blabla')
     print('blablabla')
+    print("wololololo")
 
 
 joke()
-
-def introduct():
-    print("wololololo")
-introduct()
