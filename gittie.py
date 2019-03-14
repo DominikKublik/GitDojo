@@ -5,7 +5,7 @@ def add():
     print("add")
 
 hello()
-hello()
+add()
 
 def joke():
     x=1
@@ -14,3 +14,7 @@ def joke():
         x+=1
 
 joke()
+
+def introduct():
+    print("wololololo")
+introduct()
