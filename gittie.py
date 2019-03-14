@@ -22,5 +22,7 @@ def introduct():
     print('blablabla')
     print("wololololo")
 
+def shout():
+    print('twist and shout')
 
 joke()
