@@ -24,5 +24,6 @@ def introduct():
 
 def shout():
     print('twist and shout')
+    print("Mama, I killed a man")
 
 joke()
